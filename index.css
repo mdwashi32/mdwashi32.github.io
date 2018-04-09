@@ -1,8 +1,7 @@
 body{
 	background-image: url("https://mdwashi32.github.io/galaxy.jpg");
 	margin: 0;
-
-	}
+}
 
 .div1{
 	display: block;
@@ -33,7 +32,6 @@ body{
 	margin-right: auto;
 	width: 75%;
 	height: 100%;
-	background-color: rgba(211, 211, 211, 0.8);
 	text-align: left;
 	font-family: verdana;
 }
