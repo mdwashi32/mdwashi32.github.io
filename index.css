@@ -10,8 +10,7 @@ body{
 	width: 75%;
 	height: 100%;
 	color: black;
-	background-color: gray;
-	opacity: 0.8;
+	background-color: rgba(211, 211, 211, 0.8);
 	text-align: center;
 	font-family: verdana;
 }
@@ -22,8 +21,7 @@ body{
 	margin-right: auto;
 	width: 75%;
 	height: 100%;
-	background-color: gray;
-	opacity: 0.8;
+	background-color: rgba(211, 211, 211, 0.8);
 	text-align: center;
 	font-family: verdana;
 }
@@ -34,8 +32,7 @@ body{
 	margin-right: auto;
 	width: 75%;
 	height: 100%;
-	background-color: gray;
-	opacity: 0.8;
+	background-color: rgba(211, 211, 211, 0.8);
 	text-align: center;
 	font-family: verdana;
 }
