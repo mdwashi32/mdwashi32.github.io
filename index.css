@@ -12,7 +12,7 @@ body{
 	color: black;
 	background-color: white;
 	text-align: center;
-	font-family: "Times New Roman", Times, serif;
+	font-family: verdana;
 }
 
 .div2{
@@ -23,7 +23,7 @@ body{
 	height: 100%;
 	background-color: white;
 	text-align: center;
-	font-family: "Times New Roman", Times, serif;
+	font-family: verdana;
 }
 
 .div3{
@@ -34,7 +34,7 @@ body{
 	height: 100%;
 	background-color: white;
 	text-align: left;
-	font-family: "Times New Roman", Times, serif;
+	font-family: verdana;
 }
 
 
@@ -44,7 +44,7 @@ body{
 	background-color: black;
 	color: white;
 	text-align: center;
-	font-family: verdana, serif;
+	font-family: verdana;
 }
 
 .topnav {
